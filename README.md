@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Jandro5vq
-- 👀 I’m interested in IA and Hacking
-- 🌱 I’m currently learning Python
 - 📫 How to reach me sen me an Email
 
 <!---
